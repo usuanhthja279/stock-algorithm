@@ -1,1 +1,2 @@
-Readme
+Stock Algo Trading Application:
+

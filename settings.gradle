@@ -1,1 +1,5 @@
 rootProject.name = 'stocks'
+
+gradle.ext {
+    upstoxVersion = '1.3.0'
+}
